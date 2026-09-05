@@ -78,8 +78,10 @@ Contributions are welcome! If you're adding or updating files:
 ## Contributors
 
 - **Evani Menon** — [github.com/evanimenon](https://github.com/evanimenon)
+- **Ananyaj Gupta** - [github.com/ananyaj25070](https://github.com/ananyaj25070)
 - **Zaid Aftab** — [github.com/Zaid-Aftab](https://github.com/Zaid-Aftab)
 - **Akash Adur** — [github.com/akash-adur](https://github.com/akash-adur)
+- **Shanthini Muralidhar** - [github.com/shanthini11](https://github.com/shanthini11)
 
 ---
 
